@@ -1,0 +1,6 @@
+This is a facebook-integrated language learning app.
+
+The main motivation of creating this is to work with the facebook apis and realize their full potential in a html5 canvas app.  
+
+The user will operate a space ship that cruises across a board of letters.  They will be shown a word/phase in one language and be required to "fly over" the correct letters to spell the word/phase in the other language.  I am setting this up for spanish/english currently, but I am designing to make it easily extendable to other languages by myself or others.
+

@@ -1,0 +1,1000 @@
+a partir de#from, as of#08/08709.mp3
+a través de#through, across#08/08611.mp3
+a#a, to#00/00001.mp3
+abajo#down, below, downstairs#00/00002.mp3
+abandonar#to abandon#00/00003.mp3
+abrir#to open, unlock#00/00071.mp3
+absoluto#absolute#00/00076.mp3
+abuelo#grandfathers, grandpa#08/08693.mp3
+acabar#to finish#00/00101.mp3
+acaso#perhaps, maybe#00/00113.mp3
+acción#action#00/00122.mp3
+aceptar#to accept#00/00134.mp3
+acercar#to approach#08/08599.mp3
+acompañar#to accompany#00/00166.mp3
+acordar#to decide#00/00176.mp3
+actitud#attitude#00/00201.mp3
+actividad#activity#00/00203.mp3
+acto#act#00/00205.mp3
+actual#present#00/00208.mp3
+actuar#to act#00/00213.mp3
+acudir#to go, come#00/00218.mp3
+acuerdo#agreement#00/00220.mp3
+adelante#ahead#00/00245.mp3
+además de#in addition to, besides, furthermore#08/08702.mp3
+además#in addition, besides, furthermore#00/00248.mp3
+adquirir#to acquire#00/00307.mp3
+advertir#to notice, warn#08/08651.mp3
+afectar#to affect#00/00342.mp3
+afirmar#to affirm#00/00368.mp3
+agua#water#00/00450.mp3
+ahí#there#00/00464.mp3
+ahí#there#08/08585.mp3
+ahora#now#00/00470.mp3
+aire#air#00/00481.mp3
+al#to, to the#08/08459.mp3
+alcanzar#to reach#00/00530.mp3
+alejar#to move away, remove#00/00547.mp3
+alemán#german#00/00551.mp3
+algo#something#00/00572.mp3
+alguien#somebody, someone#08/08588.mp3
+alguien#somebody#00/00575.mp3
+algún#some, any#08/08564.mp3
+alguno#some, any#00/00576.mp3
+allá#there#00/00602.mp3
+allí#there#00/00606.mp3
+alma#soul#00/00607.mp3
+alto#tall, high, stop#00/00654.mp3
+altura#height#00/00658.mp3
+amar#to love#00/00682.mp3
+ambos#both#00/00697.mp3
+americano#american#00/00705.mp3
+amigo#friend#00/00710.mp3
+amor#love#00/00725.mp3
+amplio#ample#00/00741.mp3
+añadir#to add#00/00893.mp3
+análisis#analysis#00/00752.mp3
+andar#to walk#00/00770.mp3
+animal#animal#00/00801.mp3
+año#year#01/01182.mp3
+ante#before, in front of#00/00845.mp3
+ante#before#00/00829.mp3
+anterior#previous#00/00842.mp3
+antes de#before#08/08580.mp3
+antiguo#ancient, old#00/00862.mp3
+anunciar#to announce#00/00889.mp3
+aparecer#to appear#00/00901.mp3
+apenas#hardly,scarcely#08/08590.mp3
+aplicar#to apply#00/00922.mp3
+apoyar#to support, lean#00/00929.mp3
+aprender#to learn#00/00932.mp3
+aprovechar#to take advantage of#00/00939.mp3
+aquel#that#00/00948.mp3
+aquello#that#00/00949.mp3
+aquí#here#00/00952.mp3
+árbol#tree#01/01186.mp3
+arma#weapon#08/08673.mp3
+arriba#up#00/00995.mp3
+arte#art#01/01008.mp3
+asegurar#to assure#01/01027.mp3
+así como#as well as, such, like that#08/08649.mp3
+así que#so, therefore#08/08722.mp3
+así#like this#01/01065.mp3
+aspecto#aspect#01/01046.mp3
+asunto#matter, bussiness#01/01063.mp3
+atención#attention#01/01075.mp3
+atrás#back, behind#01/01108.mp3
+atreverse#to dare#01/01102.mp3
+aumentar#to increase, raise#01/01120.mp3
+aun#even#01/01122.mp3
+aún#still#01/01184.mp3
+aunque#though, although#01/01123.mp3
+auténtico#authentic#01/01150.mp3
+autor#author#01/01144.mp3
+autoridad#authority#01/01146.mp3
+avanzar#to advance#01/01155.mp3
+ayer#yesterday#01/01174.mp3
+ayuda#aid, help#08/08669.mp3
+ayudar#to help#01/01175.mp3
+azul#blue#01/01180.mp3
+bajar#to bring down, lower, go down#01/01198.mp3
+bajo#low, short, faint#01/01199.mp3
+barcelona#barcelona#08/08630.mp3
+barrio#neighborhood#01/01240.mp3
+base#base, basis#08/08660.mp3
+bastante#fairly, rather#08/08597.mp3
+bastar#to be enough, suffice#08/08640.mp3
+beber#to drink#01/01255.mp3
+bien#well, good#01/01273.mp3
+blanco#white#01/01301.mp3
+boca#mouth#01/01308.mp3
+brazo#arm#01/01352.mp3
+buen#good, well#08/08563.mp3
+buscar#to look for, to seek#01/01389.mp3
+caballo#horse#01/01403.mp3
+caber#to fit, go into#08/08663.mp3
+cabeza#head#01/01407.mp3
+cabo#end, stub#08/08675.mp3
+cada#each#08/08477.mp3
+cadena#chain#01/01419.mp3
+caer#to fall#01/01425.mp3
+calle#street#01/01445.mp3
+cama#bed#01/01453.mp3
+cambiar#to change#01/01457.mp3
+cambio#change#08/08548.mp3
+caminar#to walk#01/01460.mp3
+camino#road#01/01461.mp3
+campaña#countryside#01/01467.mp3
+campo#field#01/01471.mp3
+cantar#to sing#01/01495.mp3
+cantidad#quantity#01/01497.mp3
+capacidad#capacity#01/01504.mp3
+capaz#able#01/01506.mp3
+capital#capital#01/01509.mp3
+cara#face#01/01516.mp3
+carácter#character#01/01559.mp3
+carne#meat#01/01538.mp3
+carrera#running#01/01549.mp3
+carta#letter#01/01555.mp3
+casa#house#01/01561.mp3
+casar#to marry#01/01562.mp3
+casi#almost#01/01566.mp3
+caso#case#08/08489.mp3
+catalán#catalan#08/08719.mp3
+causa#cause, reason#08/08633.mp3
+celebrar#to celebrate#01/01610.mp3
+célula#cell#01/01706.mp3
+central#central#01/01631.mp3
+centro#center, downtown#08/08595.mp3
+cerebro#brain#01/01643.mp3
+cerrar#to close#01/01647.mp3
+chica#small, girl,litlle#08/08661.mp3
+chico#boy, girl#01/01673.mp3
+cielo#sky, heaven#01/01695.mp3
+ciencia#science#01/01711.mp3
+científico#scientific#01/01712.mp3
+ciento#one hundred#01/01713.mp3
+cierto#true#01/01715.mp3
+cinco#five#01/01721.mp3
+cine#cinema, movies#01/01723.mp3
+circunstancia#circumstance#01/01730.mp3
+ciudad#city#01/01737.mp3
+ciudadano#citizen#01/01738.mp3
+civil#civil#01/01741.mp3
+claro#clearly, clear#01/01750.mp3
+clase#class#01/01751.mp3
+coche#car, automobile, coach, carriage#01/01789.mp3
+coger#to take#01/01803.mp3
+colocar#to place, put#08/08634.mp3
+color#color#01/01836.mp3
+comentar#to comment, discuss, mention#08/08632.mp3
+comenzar#to begin, start#01/01851.mp3
+comer#to eat#01/01852.mp3
+como#as, since, like#01/01865.mp3
+cómo#how#01/01866.mp3
+compañero#partner, companion#01/01873.mp3
+compañía#company#01/01874.mp3
+completo#complete, full#08/08616.mp3
+comprar#to buy, purchase#01/01896.mp3
+comprender#to comprehend, to understand#01/01897.mp3
+comprobar#to check#01/01900.mp3
+común#common#01/01906.mp3
+comunicación#communication#01/01908.mp3
+con que#so long as#08/08638.mp3
+con#with#08/08458.mp3
+concepto#concept#01/01917.mp3
+conciencia#conscience#01/01921.mp3
+concreto#concrete, specific#08/08672.mp3
+condición#condition#01/01933.mp3
+conducir#to drive#01/01937.mp3
+conjunto#joint, outfit, band#01/01966.mp3
+conocer#to know, meet#01/01971.mp3
+conocimiento#knowlogde#08/08501.mp3
+consecuencia#consequence#01/01976.mp3
+conseguir#to obtain#01/01978.mp3
+conservar#to conserve#01/01982.mp3
+considerar#to consider#01/01983.mp3
+consistir#to consist#01/01985.mp3
+constante#constant#08/08718.mp3
+constituir#to constitute#01/01998.mp3
+construir#to construct, build#01/01999.mp3
+contacto#contact#08/08713.mp3
+contar#to count#02/02010.mp3
+contemplar#to contemplate#02/02011.mp3
+contener#to contain#02/02014.mp3
+contestar#to answer, reply#02/02015.mp3
+continuar#to continue#02/02020.mp3
+contra#against#02/02021.mp3
+contrario#opposite#08/08667.mp3
+control#control, check#08/08687.mp3
+controlar#to control#02/02038.mp3
+convencer#to convince#02/02042.mp3
+conversación#conversation#08/08670.mp3
+convertir#to turn into, convert#02/02047.mp3
+corazón#heart#02/02066.mp3
+correr#to run, race#02/02095.mp3
+corresponder#to correspond, belong#02/02096.mp3
+corriente#current#02/02099.mp3
+cortar#to cut#02/02104.mp3
+cosa#thing#02/02112.mp3
+costumbre#custom, habit#02/02127.mp3
+crear#to create#02/02135.mp3
+crecer#to grow, increase#02/02138.mp3
+creer#to believe#02/02143.mp3
+crisis#crisis#02/02157.mp3
+cruzar#to cross#02/02176.mp3
+cuadro#picture, square, painting#02/02183.mp3
+cual#as, like#02/02186.mp3
+cuál#which, what#02/02187.mp3
+cualquier#any#08/08547.mp3
+cuando#when#02/02191.mp3
+cuanto#how much, as#08/08488.mp3
+cuánto#how much#02/02193.mp3
+cuarto#quarter#02/02198.mp3
+cuatro#four#02/02200.mp3
+cubrir#to cover#02/02207.mp3
+cuenta#count#02/02213.mp3
+cuerpo#body#02/02217.mp3
+cuestión#matter, affair#02/02219.mp3
+cultura#culture#08/08471.mp3
+cultural#cultural#08/08529.mp3
+cumplir#to accomplish, carry out#02/02227.mp3
+cuyo#whose, of whom#02/02243.mp3
+dar#to give#02/02251.mp3
+dato#data#02/02253.mp3
+de#of, from#02/02254.mp3
+deber#to owe#02/02257.mp3
+decidir#to decide#02/02268.mp3
+decir#to say, tell#02/02277.mp3
+decisión#decision#02/02278.mp3
+declarar#to declare#02/02279.mp3
+dedicar#to dedicate#02/02287.mp3
+dedo#finger, toe#08/08639.mp3
+defender#to defend#02/02291.mp3
+defensa#defense#08/08664.mp3
+definir#to define#02/02295.mp3
+definitivo#definitive#08/08624.mp3
+dejar#to leave#02/02302.mp3
+del#of, from#08/08455.mp3
+demás#rest of the#02/02319.mp3
+demasiado#too much#02/02320.mp3
+democracia#democracy#02/02322.mp3
+demostrar#to demonstrate#02/02328.mp3
+dentro de#within, in#08/08601.mp3
+depender#to depend#02/02338.mp3
+derecha#right#02/02346.mp3
+derecho#straight, rigth#02/02347.mp3
+desaparecer#to disappear#02/02378.mp3
+desarrollar#to develop#02/02384.mp3
+desarrollo#development#02/02385.mp3
+desconocer#to not know, fail to recognize#08/08682.mp3
+descubrir#to discover#02/02414.mp3
+desde que#since#08/08715.mp3
+desde#from, since#02/02417.mp3
+desear#to wish#02/02419.mp3
+deseo#desire#02/02433.mp3
+despertar#to wake up#02/02483.mp3
+después de#after#08/08571.mp3
+después#afterwards, then#02/02494.mp3
+destino#destiny, destination#08/08700.mp3
+detener#to stop#02/02515.mp3
+determinar#to determine#02/02518.mp3
+día#day#02/02528.mp3
+diario#newspaper#02/02540.mp3
+diez#ten#02/02555.mp3
+diferencia#difference#02/02557.mp3
+diferente#different#08/08600.mp3
+difícil#difficult#02/02559.mp3
+dificultad#difficulty#08/08694.mp3
+dinero#money#02/02580.mp3
+dios#god, goddes#02/02582.mp3
+dirección#address, direction#02/02587.mp3
+directo#direct, straight#08/08621.mp3
+director#director, manager#02/02588.mp3
+dirigir#to direct#02/02591.mp3
+disponer#to arrange#02/02620.mp3
+distancia#distance#08/08684.mp3
+distinto#different#08/08582.mp3
+diverso#diverse#08/08635.mp3
+doble#double#08/08708.mp3
+doctor#doctor#02/02647.mp3
+dolor#pain#08/08643.mp3
+don#gift, talent#02/02659.mp3
+donde#where#02/02661.mp3
+dónde#where#02/02662.mp3
+dormir#to sleep#02/02665.mp3
+dos#two#02/02666.mp3
+duda#doubt#02/02677.mp3
+durante#during#02/02691.mp3
+duro#hard#02/02694.mp3
+e#and#08/08460.mp3
+echar#to throw, cast#02/02698.mp3
+económico#economic, economical#08/08589.mp3
+edad#age#02/02708.mp3
+efecto#efect#08/08538.mp3
+ejemplo#example#02/02728.mp3
+ejército#army#02/02730.mp3
+ejército#army#08/08699.mp3
+el#the#02/02731.mp3
+él#he, him#02/02732.mp3
+elección#election#02/02735.mp3
+elegir#to choose, select#02/02744.mp3
+elemento#element#02/02745.mp3
+elevar#to elevate, raise#02/02747.mp3
+empezar#to begin, start#02/02795.mp3
+empresa#company#02/02801.mp3
+en#in, into, inside, on#02/02804.mp3
+encender#to light, switch on, set fire to#02/02817.mp3
+encima#on top#02/02825.mp3
+encontrar#to find#02/02829.mp3
+encuentro#encounter, meeting#02/02835.mp3
+energía#energy#02/02845.mp3
+enfermedad#illness, disease, sickness#08/08603.mp3
+enfermo#ill, sick#08/08645.mp3
+enorme#enormous#02/02875.mp3
+enseñar#to teach#02/02886.mp3
+entender#to understand#02/02889.mp3
+enterar#to find out, inform#02/02890.mp3
+entonces#then#02/02898.mp3
+entrada#entrance, entry#02/02900.mp3
+entrar#to enter#02/02901.mp3
+entre#between, among#02/02902.mp3
+entregar#to deliver, give#02/02903.mp3
+enviar#to send#02/02916.mp3
+época#epoch, period#02/02927.mp3
+equipo#equipment, team#02/02933.mp3
+error#error, mistake#02/02947.mp3
+es decir#that is to say#08/08612.mp3
+escapar#to escape, run away#02/02962.mp3
+escribir#to write#02/02985.mp3
+escritor#writer#02/02987.mp3
+escuchar#to listen, heard#02/02992.mp3
+ese#that#02/02996.mp3
+esfuerzo#effort, endeavor, exertion#08/08627.mp3
+eso#that#03/03009.mp3
+espacio#space#08/08604.mp3
+espalda#back#03/03013.mp3
+españa#spain#08/08512.mp3
+español#spanish#03/03015.mp3
+española#Spanish, spaniard#08/08618.mp3
+especial#special#03/03020.mp3
+especie#species#03/03021.mp3
+esperanza#hope, prospect#08/08685.mp3
+esperar#to hope, wait#03/03026.mp3
+espíritu#spirit#03/03035.mp3
+ésta#is#08/08532.mp3
+establecer#to establish#03/03050.mp3
+estado#state#03/03058.mp3
+estados unidos#united States#08/08678.mp3
+estar#to be, stay#03/03070.mp3
+éste#this one#03/03079.mp3
+este#this#03/03076.mp3
+este#this#03/03078.mp3
+esto#this#03/03091.mp3
+estrella#star#03/03101.mp3
+estructura#structure#03/03113.mp3
+estudiar#to study#03/03115.mp3
+estudio#study, studio#08/08586.mp3
+etapa#stage#03/03118.mp3
+europa#europe#08/08511.mp3
+europeo#european#03/03129.mp3
+evidente#evident#08/08691.mp3
+evitar#to avoid#03/03141.mp3
+exacto#exact#03/03144.mp3
+exigir#to demand#03/03175.mp3
+existencia#existence#08/08490.mp3
+existir#to exist#03/03179.mp3
+éxito#success#03/03180.mp3
+experiencia#experience#03/03188.mp3
+explicar#to explain#03/03196.mp3
+expresión#expression#08/08656.mp3
+extender#to extend#03/03217.mp3
+exterior#outside, exterior#03/03219.mp3
+extranjero#foreigner, foreign#03/03228.mp3
+extraño#strange, foreign#08/08605.mp3
+extremo#extreme#08/08676.mp3
+fácil#easy#03/03249.mp3
+falta#lack#03/03262.mp3
+faltar#to lack#08/08602.mp3
+familia#family#03/03264.mp3
+familiar#familial, family#08/08666.mp3
+famoso#famous#08/08704.mp3
+fenómeno#phenomenon#03/03296.mp3
+fiesta#celebration, party#03/03323.mp3
+figura#figure, shape#08/08657.mp3
+figura#to figure#03/03324.mp3
+fijar#to faten, affix#08/08654.mp3
+fin#end#03/03335.mp3
+final#end, final#03/03336.mp3
+físico#physical, physicist#08/08615.mp3
+flor#flower#03/03365.mp3
+fondo#bottom, rear#03/03380.mp3
+forma#shape#08/08496.mp3
+formar#to form#03/03389.mp3
+francés#french#03/03421.mp3
+francés#french#03/03422.mp3
+francia#france#08/08696.mp3
+frase#phrase#03/03427.mp3
+frecuencia#frequency#03/03431.mp3
+frente#in front#03/03436.mp3
+frío#cold, cool#03/03444.mp3
+fuego#fire#03/03454.mp3
+fuente#source#03/03455.mp3
+fuera de#outside of, beyond#08/08712.mp3
+fuerte#hard, strong#03/03457.mp3
+fuerza#force, strength#03/03458.mp3
+función#function#03/03461.mp3
+funcionar#to work, run, function#03/03462.mp3
+fundamental#fundamental#08/08677.mp3
+fútbol#soccer, football#08/08706.mp3
+futuro#future#08/08534.mp3
+ganar#to win#03/03483.mp3
+general#general#03/03514.mp3
+gente#people#03/03524.mp3
+gesto#gesture#03/03538.mp3
+gobierno#government#08/08572.mp3
+golpe#blow#03/03570.mp3
+gracia#grace#03/03584.mp3
+gran#big#08/08530.mp3
+grande#big, great#03/03591.mp3
+grave#grave, deep#08/08625.mp3
+gritar#to shout, scream#03/03611.mp3
+grupo#group#03/03617.mp3
+guardar#to keep#03/03631.mp3
+guerra#war#03/03637.mp3
+gustar#to taste, like#03/03647.mp3
+gusto#taste, pleasure, liking#08/08689.mp3
+haber#to have, has#03/03650.mp3
+habitación#room, bedroom#08/08644.mp3
+habitual#habitual, usual#08/08695.mp3
+hablar#to speak, talk#03/03656.mp3
+hacer#to do, make#03/03659.mp3
+hacia#towards#03/03661.mp3
+hallar#to find, discover#03/03666.mp3
+hasta que#until, even#08/08598.mp3
+hasta#until, even#03/03672.mp3
+hecho#fact#03/03676.mp3
+hermana#sister#08/08705.mp3
+hermano#brother#03/03689.mp3
+hermoso#beautiful#03/03692.mp3
+hija#daughter#08/08619.mp3
+hijo#son, daughter#03/03717.mp3
+historia#history#03/03740.mp3
+histórico#historical#08/08653.mp3
+hombre#man#03/03746.mp3
+hombro#shoulder#03/03748.mp3
+hora#hour#03/03761.mp3
+hoy#today#03/03781.mp3
+humano#human#03/03794.mp3
+idea#idea#03/03809.mp3
+iglesia#church#03/03818.mp3
+igual#equal#03/03821.mp3
+imagen#image#03/03836.mp3
+imaginar#to imagine#03/03837.mp3
+impedir#to prevent#03/03847.mp3
+imponer#to impose, command#03/03862.mp3
+importancia#importance#03/03868.mp3
+importante#important#08/08578.mp3
+importar#to matter, be important#08/08648.mp3
+imposible#impossible#03/03870.mp3
+incluir#to include#03/03921.mp3
+incluso#even, in fact#08/08569.mp3
+indicar#to indicate#03/03979.mp3
+individuo#individual#08/08701.mp3
+información#information#04/04037.mp3
+informar#to inform#04/04039.mp3
+informar#to inform#08/08716.mp3
+inglés#english#04/04057.mp3
+iniciar#to initiate#04/04066.mp3
+inmediato#immediate#04/04074.mp3
+insistir#to insist#04/04107.mp3
+instante#moment, instant#08/08629.mp3
+intentar#to try#04/04140.mp3
+interés#interest#04/04144.mp3
+interesar#to interest#08/08636.mp3
+interior#interior, inner#04/04147.mp3
+internacional#international#04/04155.mp3
+introducir#to introduce, insert#08/08707.mp3
+ir#to go#04/04206.mp3
+izquierda#left#04/04238.mp3
+jamás#never#04/04247.mp3
+jefe#chief, leader, boss#04/04260.mp3
+joven#young person#04/04271.mp3
+juego#game, playing#04/04281.mp3
+jugador#player, gambler#08/08655.mp3
+jugar#to play, gambler#04/04285.mp3
+juicio#judgment, sense#04/04289.mp3
+junto a#next to#08/08610.mp3
+junto#together, joined, close#08/08720.mp3
+justo#just, fair#04/04301.mp3
+labio#lip#04/04312.mp3
+lado#side#04/04319.mp3
+lanzar#to throw#04/04336.mp3
+largo#long#08/08576.mp3
+lector#reader#04/04363.mp3
+leer#to read#04/04364.mp3
+lengua#language, tongue#04/04381.mp3
+lenguaje#language#04/04382.mp3
+lento#slow#08/08703.mp3
+levantar#to lift, raise#04/04396.mp3
+ley#law#04/04398.mp3
+libertad#freedom#04/04404.mp3
+libre#free#04/04409.mp3
+libro#book#04/04410.mp3
+limitar#to limit#04/04424.mp3
+línea#line#04/04430.mp3
+literatura#literature#04/04439.mp3
+llamar#to call, phone#04/04446.mp3
+llegar#to arrive, come#04/04451.mp3
+llenar#to fill#04/04452.mp3
+lleno#full#08/08608.mp3
+llevar#to take, carry#04/04453.mp3
+llorar#to cry, weep#04/04454.mp3
+lo#the for it#08/08457.mp3
+loco#crazy, insane#04/04460.mp3
+lograr#to obtain, achieve, get#04/04469.mp3
+lucha#fight, struggle#08/08671.mp3
+luego#then, later#04/04488.mp3
+lugar#place#04/04489.mp3
+luz#light, lighting#04/04498.mp3
+madre#mother#04/04506.mp3
+mal#badly, poorly, incorrectly#04/04524.mp3
+malo#bad#04/04543.mp3
+mañana#tomorrow#04/04591.mp3
+mandar#to command#04/04556.mp3
+manera#way, manner#04/04563.mp3
+manifestar#to declare#04/04572.mp3
+mano#hand#04/04577.mp3
+mantener#to maintain#04/04583.mp3
+máquina#machine#04/04595.mp3
+mar#sea#04/04596.mp3
+marcar#to mark#04/04601.mp3
+marcha#march#08/08662.mp3
+marchar#to march#04/04602.mp3
+marido#husband#08/08609.mp3
+mas#but#04/04634.mp3
+más#more#04/04635.mp3
+masa#mass#08/08690.mp3
+matar#to kill#04/04649.mp3
+materia#matter#04/04651.mp3
+material#material#08/08650.mp3
+máximo#maximum#04/04662.mp3
+mayor#greater#04/04666.mp3
+mayoría#majority#04/04667.mp3
+mediante#by means of#04/04683.mp3
+médico#doctor#04/04686.mp3
+medida#measurement#04/04687.mp3
+medio#means#04/04689.mp3
+mejor#better#04/04700.mp3
+memoria#memory#04/04713.mp3
+menor#minor#04/04717.mp3
+menos#less#04/04718.mp3
+menudo#small, insignificant#08/08717.mp3
+mercado#market#04/04733.mp3
+merecer#to deserve#04/04737.mp3
+mes#month#04/04740.mp3
+mesa#it pulls#04/04741.mp3
+meter#to put#04/04751.mp3
+método#method#04/04753.mp3
+metro#meter#04/04755.mp3
+mi#my, not me#04/04760.mp3
+mí#me, not my#04/04761.mp3
+miedo#fear#04/04769.mp3
+miembro#member#08/08617.mp3
+mientras que#whereas, while#08/08686.mp3
+mientras#while#04/04770.mp3
+mil#thousand#04/04775.mp3
+militar#military man#04/04783.mp3
+millón#million#08/08573.mp3
+mínimo#minimum#04/04794.mp3
+ministro#minister#04/04797.mp3
+minuto#minute#04/04802.mp3
+mío#mine#04/04803.mp3
+mirada#watched#08/08591.mp3
+mirar#to watch#04/04805.mp3
+mismo#same#04/04814.mp3
+mitad#half#04/04817.mp3
+modelo#model#08/08646.mp3
+moderno#modern#04/04828.mp3
+modo#way, manner, mode#04/04833.mp3
+momento#moment#04/04847.mp3
+moral#moral#04/04881.mp3
+morir#to die#04/04888.mp3
+mostrar#to show#04/04898.mp3
+motivo#reason#04/04902.mp3
+mover#to move, stir#04/04905.mp3
+movimiento#movement, motion#04/04907.mp3
+muchacho#boy#04/04909.mp3
+mucho#much#04/04911.mp3
+muerte#death#04/04918.mp3
+mujer#woman, women#04/04921.mp3
+mundial#worldwide#08/08688.mp3
+mundo#world#04/04931.mp3
+música#music#04/04944.mp3
+muy#very, highly#04/04949.mp3
+nacer#to be born#04/04952.mp3
+nacional#national#08/08518.mp3
+nada#nothing#04/04954.mp3
+nadie#nobody, no-one#04/04956.mp3
+natural#natural#04/04972.mp3
+naturaleza#nature#04/04973.mp3
+necesario#necessary#04/04989.mp3
+necesidad#necessity,need#04/04991.mp3
+necesitar#to need#08/08583.mp3
+negar#to deny#04/04995.mp3
+negocio#business#08/08721.mp3
+negro#black#04/04998.mp3
+ni siquiera#not even#08/08606.mp3
+ni#nor, neither#05/05011.mp3
+niña#girl, child#08/08626.mp3
+ningún#none#08/08593.mp3
+ninguno#no, none, nobody, no one#05/05021.mp3
+niño#boy, girl#05/05022.mp3
+nivel#level#05/05028.mp3
+no#no#05/05029.mp3
+noche#night#05/05031.mp3
+nombre#name#08/08575.mp3
+normal#normal#08/08641.mp3
+norteamericano#North American#05/05040.mp3
+notar#to notice#08/08679.mp3
+noticia#the news#05/05047.mp3
+novela#novel#05/05053.mp3
+nuestro#ours#05/05068.mp3
+nuevo#new#05/05071.mp3
+número#number#08/08581.mp3
+nunca#never#05/05077.mp3
+o#or#05/05081.mp3
+objetivo#objective#08/08628.mp3
+objeto#object#05/05090.mp3
+obligar#to force, oblige#05/05092.mp3
+obra#work#05/05093.mp3
+observar#to observe#05/05096.mp3
+obtener#to obtain, get#05/05106.mp3
+ocasión#occasion#05/05111.mp3
+ocho#eight#05/05116.mp3
+ocupar#to occupy#05/05124.mp3
+ocurrir#to happen#05/05127.mp3
+oficial#official#05/05134.mp3
+ofrecer#to offer#05/05137.mp3
+oír#to hear#05/05141.mp3
+ojo#eye#05/05143.mp3
+olvidar#to forget#05/05152.mp3
+operación#operation#08/08631.mp3
+opinión#opinion#08/08620.mp3
+origen#origin#05/05174.mp3
+oro#gold#05/05182.mp3
+oscuro#dark, obscure#05/05192.mp3
+otro#another, other#05/05199.mp3
+paciente#patient#08/08652.mp3
+padre#father#05/05216.mp3
+pagar#to pay#05/05220.mp3
+página#page#05/05221.mp3
+país#country, nation#05/05223.mp3
+países#countries#08/08527.mp3
+palabra#word#05/05228.mp3
+papel#paper#05/05273.mp3
+par#pair, couple#05/05276.mp3
+para que#so that#08/08568.mp3
+para#for, towars, stop#05/05277.mp3
+parar#to stop, stand#05/05291.mp3
+parecer#to seem#05/05295.mp3
+pared#wall#05/05296.mp3
+pareja#even, couple, pair#08/08674.mp3
+parte#part#05/05312.mp3
+participar#to participate#05/05315.mp3
+particular#particular, private#05/05317.mp3
+partido#party, game#08/08574.mp3
+partir#to start off, depart, slipt, divide#05/05318.mp3
+pasado#past#08/08541.mp3
+pasar#to happen, pass#05/05325.mp3
+paso#step#05/05335.mp3
+paso#step#08/08577.mp3
+paz#peace#05/05366.mp3
+pecho#chest#05/05375.mp3
+pedir#to request, ask for#05/05387.mp3
+película#film, movie#05/05395.mp3
+peligro#danger#05/05396.mp3
+pelo#hair#05/05400.mp3
+pena#pain, penalty#05/05408.mp3
+pensamiento#though#08/08503.mp3
+pensar#to think#05/05419.mp3
+peor#worse#05/05425.mp3
+pequeño#small#05/05427.mp3
+perder#to lose, miss#08/08565.mp3
+perfecto#perfect#08/08698.mp3
+periódico#newspaper#05/05446.mp3
+periodista#journalist#08/08681.mp3
+permanecer#to remain#05/05451.mp3
+permitir#to allow#05/05453.mp3
+pero#but#05/05455.mp3
+perro#dog, bitch#05/05460.mp3
+persona#person#05/05465.mp3
+personaje#person#08/08623.mp3
+personal#personal#08/08596.mp3
+pertenecer#to belong to#05/05468.mp3
+pesar#to weigh#05/05479.mp3
+peso#weight#05/05486.mp3
+pie#foot#05/05510.mp3
+piedra#stone#05/05512.mp3
+piel#skin#05/05513.mp3
+pierna#leg#08/08668.mp3
+piso#floor#05/05549.mp3
+placer#to please#05/05557.mp3
+plan#plan#05/05561.mp3
+plantear#to expound, raise#05/05572.mp3
+plaza#seat, square#05/05586.mp3
+pleno#full, complete#08/08647.mp3
+población#population#05/05599.mp3
+pobre#poor#05/05600.mp3
+poco#little, few#05/05602.mp3
+poder#to be able to, can, might, may#05/05604.mp3
+policía#police#05/05612.mp3
+política#politics#05/05619.mp3
+político#political#08/08567.mp3
+poner#to put#05/05629.mp3
+por ejemplo#for example#08/08584.mp3
+por#by, for, per#05/05633.mp3
+porque#because, why#05/05640.mp3
+poseer#to posses, own#05/05652.mp3
+posibilidad#possibility#05/05653.mp3
+posible#posible#08/08528.mp3
+posición#position#05/05654.mp3
+práctico#practical#08/08659.mp3
+precio#price, cost#05/05675.mp3
+preciso#precise#05/05678.mp3
+preferir#to prefer#05/05695.mp3
+pregunta#a question#05/05701.mp3
+preguntar#to ask#05/05702.mp3
+prensa#press#05/05724.mp3
+preocupar#to worry#05/05726.mp3
+preparar#to prepare#05/05728.mp3
+presencia#presence#05/05738.mp3
+presentar#to present#05/05740.mp3
+presente#present#05/05743.mp3
+presidente#president#05/05749.mp3
+pretender#to try, court#05/05767.mp3
+primer#first#08/08510.mp3
+primero#first#05/05782.mp3
+principal#principal#05/05791.mp3
+principio#beginning, principle#05/05793.mp3
+privar#deprive#05/05797.mp3
+probable#probable#05/05805.mp3
+problema#problem#05/05808.mp3
+proceso#process#05/05817.mp3
+producir#to produce#05/05827.mp3
+producto#product#05/05831.mp3
+profesional#professional#05/05839.mp3
+profesor#professor, teacher#05/05840.mp3
+profundo#deep#05/05845.mp3
+programa#program#05/05851.mp3
+pronto#soon, quick, prompt#05/05885.mp3
+propio#own#05/05901.mp3
+proponer#to propose, nominate#05/05902.mp3
+provocar#to cause#05/05942.mp3
+próximo#next#05/05944.mp3
+proyecto#project#05/05948.mp3
+prueba#test, proof, evidence#05/05952.mp3
+publicar#to publish#05/05969.mp3
+público#public#05/05975.mp3
+pueblo#town#05/05982.mp3
+pueblo#town#08/08579.mp3
+puerta#door#05/05985.mp3
+pues#then, since, because#05/05988.mp3
+puesto#position, place#05/05990.mp3
+punto#point#06/06015.mp3
+puro#pure#06/06034.mp3
+que#that#06/06040.mp3
+qué#what#06/06041.mp3
+quedar#to stay#06/06048.mp3
+querer#to want#06/06055.mp3
+quien#who#06/06061.mp3
+quién#who#06/06062.mp3
+quitar#to remove, take away#06/06082.mp3
+quizá#perhaps, maybe#06/06083.mp3
+radio#radio#08/08714.mp3
+rápido#rapid, quick#06/06128.mp3
+rato#short while#06/06156.mp3
+razón#reason#06/06163.mp3
+real#royal, real#06/06174.mp3
+realidad#reality#06/06177.mp3
+realizar#to make, realize#06/06179.mp3
+recibir#to receive#06/06223.mp3
+reciente#recent#06/06230.mp3
+recoger#to gather, pick up#06/06248.mp3
+reconocer#to recognize#06/06260.mp3
+recordar#to remember, remind#06/06269.mp3
+recorrer#to cross, travel through#06/06271.mp3
+recuerdo#memory, remembrance#06/06285.mp3
+recuperar#to recover#06/06286.mp3
+reducir#to reduce#06/06297.mp3
+referir#to refer#06/06309.mp3
+régimen#regime#06/06354.mp3
+regresar#to return, come back#06/06370.mp3
+reír#to laugh#06/06389.mp3
+relación#relation#06/06396.mp3
+religioso#religious#06/06412.mp3
+repetir#to repeat#06/06474.mp3
+representar#to represent#06/06486.mp3
+resolver#to solve#06/06529.mp3
+responder#to answer#06/06544.mp3
+responsable#responsible#06/06545.mp3
+respuesta#answer#06/06547.mp3
+resto#rest#06/06559.mp3
+resultado#result, outcome#08/08587.mp3
+resultar#to turn out, work out, succeed#08/08570.mp3
+reunión#meeting#06/06597.mp3
+reunir#to unite, join#06/06596.mp3
+revista#magazine#06/06615.mp3
+rey#king#06/06627.mp3
+rico#rich#06/06630.mp3
+riesgo#risk#06/06634.mp3
+río#river#06/06647.mp3
+rodear#to surround, encircle#08/08658.mp3
+rojo#red#06/06675.mp3
+romper#to break#06/06685.mp3
+ropa#clothes#06/06691.mp3
+rostro#face#06/06701.mp3
+saber#to know#06/06742.mp3
+sacar#to remove, take out#06/06752.mp3
+sala#room, living room#06/06777.mp3
+salida#exit, departure#08/08680.mp3
+salir#to leave, go out#06/06784.mp3
+sangre#blood#06/06821.mp3
+secreto#secret#06/06867.mp3
+sector#sector#06/06869.mp3
+seguir#to follow#06/06894.mp3
+según#according to#06/06897.mp3
+segundo#second#06/06898.mp3
+seguridad#security#06/06901.mp3
+seguro#safe#06/06899.mp3
+seis#six#06/06902.mp3
+semana#week#06/06911.mp3
+semejante#similar#08/08692.mp3
+señalar#to indicate, point out#08/08594.mp3
+señor#sir/madam#06/06953.mp3
+sensación#sensation, feeling#06/06932.mp3
+sentar#to seat, sit#06/06942.mp3
+sentido#heartfelt,sense#06/06946.mp3
+sentimiento#feeling#06/06947.mp3
+sentimiento#feeling#08/08683.mp3
+sentir#to feel#06/06950.mp3
+separar#to separate#06/06956.mp3
+ser#to be#06/06964.mp3
+serie#series#06/06970.mp3
+serio#serious#08/08637.mp3
+servicio#service#06/06976.mp3
+servir#to serve#06/06978.mp3
+sexo#sex#06/06988.mp3
+sexual#sexual#06/06992.mp3
+si#if, yes#06/06995.mp3
+sí#yes#08/08480.mp3
+sido#been#08/08485.mp3
+siempre#always#06/06999.mp3
+siete#seven#07/07004.mp3
+siglo#century#07/07007.mp3
+significar#to mean#07/07008.mp3
+siguiente#following, next#07/07013.mp3
+silencio#silence#07/07020.mp3
+simple#simple#07/07040.mp3
+sin#without#07/07047.mp3
+sino que#but that#08/08613.mp3
+sino#but, rather#07/07060.mp3
+sistema#system#07/07075.mp3
+sitio#place, site#07/07077.mp3
+situación#situation#07/07080.mp3
+situar#to locate#07/07078.mp3
+sobre#envelope, on#07/07093.mp3
+social#social#07/07118.mp3
+socialista#socialist#07/07120.mp3
+sociedad#society#07/07121.mp3
+sol#sun#07/07137.mp3
+solo#alone#07/07159.mp3
+sólo#only#07/07160.mp3
+solución#solution#07/07164.mp3
+sombra#shadow#07/07168.mp3
+someter#to subjugate#07/07173.mp3
+sonar#to sound#07/07176.mp3
+sonreír#to smile#07/07181.mp3
+sonrisa#smile#07/07183.mp3
+sorprender#to surprise#07/07199.mp3
+sostener#to maintain, support, hold#07/07211.mp3
+su#his#07/07220.mp3
+subir#to raise#07/07233.mp3
+suceder#to happen/ occur#07/07262.mp3
+suelo#ground, floor#08/08607.mp3
+sueño#dream#07/07281.mp3
+suerte#luck#07/07283.mp3
+suficiente#enough#07/07286.mp3
+sufrir#to suffer#07/07290.mp3
+superar#to surpass#07/07319.mp3
+superior#superior#07/07327.mp3
+suponer#to suppose#07/07345.mp3
+surgir#to arise#07/07357.mp3
+suyo#his/her/its#07/07395.mp3
+tal vez#perhaps#08/08622.mp3
+tal#so#07/07419.mp3
+también#also, too#07/07434.mp3
+tampoco#neither#07/07436.mp3
+tan#so#07/07438.mp3
+tanto#so much#07/07444.mp3
+tarde#late#07/07460.mp3
+tarea#homewrok#07/07462.mp3
+técnica#technique#07/07482.mp3
+técnico#technician#07/07483.mp3
+televisión#television#07/07512.mp3
+tema#theme#07/07516.mp3
+temer#to fear#07/07520.mp3
+tender#to strech out#07/07541.mp3
+tener#to have#07/07548.mp3
+teoría#theory#07/07565.mp3
+tercer#third#08/08614.mp3
+terminar#to finish#07/07578.mp3
+término#term#07/07581.mp3
+texto#text#07/07618.mp3
+tía#aunt#08/08711.mp3
+tiempo#time#07/07626.mp3
+tierra#earth#07/07629.mp3
+tío#uncle / aunt#07/07651.mp3
+tipo#guy#07/07653.mp3
+tirar#to throw#07/07666.mp3
+título#title#07/07679.mp3
+tocar#to touch#07/07688.mp3
+todavía#still#07/07691.mp3
+todo#everything#07/07692.mp3
+tomar#to take, to drink#07/07701.mp3
+tono#tone#08/08697.mp3
+total#total#07/07753.mp3
+trabajar#to work#07/07758.mp3
+trabajo#job#08/08504.mp3
+traer#to bring#07/07771.mp3
+tras#after#07/07839.mp3
+tratar#to try#07/07861.mp3
+tres#three#07/07888.mp3
+tu#your, you#07/07954.mp3
+último#last#07/07999.mp3
+un#a, an#08/08007.mp3
+único#only#08/08011.mp3
+único#only, unique#08/08566.mp3
+unidad#unit#08/08014.mp3
+unir#to unite#08/08023.mp3
+uno#one#08/08032.mp3
+usar#to use#08/08047.mp3
+uso#use#08/08665.mp3
+usted#you#08/08050.mp3
+utilizar#to use#08/08056.mp3
+vacío#empty#08/08070.mp3
+valer#to be worth#08/08089.mp3
+valor#value#08/08096.mp3
+varias#several#08/08642.mp3
+varios#several#08/08710.mp3
+vecino#neighbor#08/08126.mp3
+veinte#twenty#08/08136.mp3
+velocidad#speed#08/08148.mp3
+vender#to sell#08/08159.mp3
+venir#to come#08/08175.mp3
+ventana#window#08/08181.mp3
+ver#to see#08/08191.mp3
+verano#summer#08/08193.mp3
+verdad#truth#08/08201.mp3
+verdadero#true#08/08203.mp3
+verde#green#08/08204.mp3
+vestir#to dress#08/08225.mp3
+vez#time#08/08233.mp3
+viaje#travel#08/08239.mp3
+vida#life#08/08256.mp3
+viejo#old#08/08261.mp3
+viento#wind#08/08262.mp3
+violencia#violence#08/08289.mp3
+vista#vision#08/08320.mp3
+vivir#to live#08/08341.mp3
+vivo#alive#08/08342.mp3
+voluntad#will#08/08370.mp3
+volver#to return#08/08374.mp3
+voz#voice#08/08383.mp3
+vuelta#return#08/08385.mp3
+y#and#08/08393.mp3
+ya que#since#08/08592.mp3
+ya#already#08/08394.mp3
+yo#I#08/08404.mp3
+zona#zone#08/08437.mp3
+
