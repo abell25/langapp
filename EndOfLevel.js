@@ -16,13 +16,13 @@ function EndOfLevel() {
 	    this.retryButton = new Button(0, 220, CANVAS_WIDTH/2, 60, "retry?");
 	    this.nextButton  = new Button(CANVAS_WIDTH/2, 220, CANVAS_WIDTH/2, 60, "next level");
 	    debug("buttons init!  score:----------->" + this.score);
-            if (game_info["level"+levelManager.currentLevel]<this.score){
+        if (game_info["level"+levelManager.currentLevel]<this.score){
 	        this.newHiScore = true;
-                game_info["level"+levelManager.currentLevel] = this.score;
-		updateHighScore(game_info["id"], this.score, levelManager.currentLevel);
-            } else {
-		this.newHiScore = false;
-            }
+            game_info["level"+levelManager.currentLevel] = this.score;
+		    updateHighScore(game_info["id"], this.score, levelManager.currentLevel);
+        } else {
+	    	this.newHiScore = false;
+        }
 	}
 	
 	this.update = function() {

@@ -1,14 +1,15 @@
 var wordList = [];
 
 function  getWordList() {
-    debug("starting ajax call.");
+    debug("getting word list.");
     //We need to make a async call to get words from getKeyValPair.php
-    ajaxCall("http://www.anthonybell.net/code/js/LangApp/apptastic/getKeyValPair.php", fillWordList);
+    //ajaxCall("code/js/LangApp/apptastic/getKeyValPair.php", fillWordList);
+    wordList = language_pairs;
+    return wordList;
 }
 function updateHighScore(id, newHiScore, level) {
     debug("updating highscore");
-    //debug("http://www.anthonybell.net/code/js/LangApp/apptastic/updateHiScore.php?id=" + id + "&newHiScore=" + newHiScore + "&level=" + level);
-    ajaxCall("http://www.anthonybell.net/code/js/LangApp/apptastic/updateHiScore.php?id=" + id + "&newHiScore=" + newHiScore + "&level=" + level, scoreUpdated);
+    //ajaxCall("code/js/LangApp/apptastic/updateHiScore.php?id=" + id + "&newHiScore=" + newHiScore + "&level=" + level, scoreUpdated);
 }
 var obj;
 function ajaxCall(url, callback) {
